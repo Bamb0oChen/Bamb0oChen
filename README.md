@@ -38,7 +38,7 @@
 
 - Gmial: yanzhuchen192@gmail.com
 - QQmail: 3282928900@qq.com
-- Wechat: Chenyanzhu0721 
+- Wechat: Bamb0oChen 
 
 ### ZJUer
 - 📕 I'm a student from [Zhejiang University](https://www.zju.edu.cn/), major in engineering, especially Unmanned Systems and Marine Equipment
