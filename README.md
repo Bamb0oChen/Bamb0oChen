@@ -18,7 +18,6 @@
 ## 📊 Code Statistics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bamb0oChen&theme=tokyo-night&hide_border=true" />
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bamb0oChen&theme=github_dark" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bamb0oChen&theme=github_dark" width="48%" />
 </p>
