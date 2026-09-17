@@ -17,31 +17,14 @@
 
 ## 📊 Code Statistics
 <!-- github-stats:start -->
-Updated: **2026-09-17 09:38 UTC** · [Update status](https://github.com/Bamb0oChen/Bamb0oChen/actions/workflows/update-stats.yml)
-
-| Public original repositories | Stars received | Forks received |
-| ---: | ---: | ---: |
-| 15 | 11 | 2 |
-
-Public, owned, non-fork repositories only; archived repositories are included in totals.
-
-**Primary languages** (repository count, not code volume or commit share)
-
-Python **5** · HTML **3** · JavaScript **3** · Jupyter Notebook **1** · Vue **1**
-
-**Recently pushed projects**
-
-| Repository | Primary language | Last push (UTC) |
-| --- | --- | --- |
-| [notes](https://github.com/Bamb0oChen/notes) | HTML | 2026-09-17 |
-| [Bamb0oChen.github.io](https://github.com/Bamb0oChen/Bamb0oChen.github.io) | JavaScript | 2026-09-12 |
-| [HZ98-MiniProgram](https://github.com/Bamb0oChen/HZ98-MiniProgram) | JavaScript | 2026-07-10 |
-| [ColorPal](https://github.com/Bamb0oChen/ColorPal) | Vue | 2026-05-24 |
-| [Agent4Study](https://github.com/Bamb0oChen/Agent4Study) | Python | 2026-05-10 |
-
-Last push is a repository timestamp, not a personal contribution count.
-
-[Contribution history](https://github.com/Bamb0oChen?tab=overview) · [All repositories](https://github.com/Bamb0oChen?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Bamb0oChen?tab=overview"><img src="./assets/stats/activity.svg?v=20260917094517" width="100%" alt="GitHub contributions over the last 31 days" /></a>
+</p>
+<p align="center">
+  <img src="./assets/stats/overview.svg?v=20260917094517" width="49%" alt="Public repository statistics and active days" />
+  <img src="./assets/stats/languages.svg?v=20260917094517" width="49%" alt="Primary languages by public non-fork repository count" />
+</p>
+<p align="center"><sub>Generated from GitHub every 6 hours. Timestamps are UTC; today's activity is partial. <a href="https://github.com/Bamb0oChen/Bamb0oChen/actions/workflows/update-stats.yml">Update status</a></sub></p>
 <!-- github-stats:end -->
 
 ## 📂 Selected Projects
