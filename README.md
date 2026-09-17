@@ -17,7 +17,7 @@
 
 ## 📊 Code Statistics
 <!-- github-stats:start -->
-Updated: **2026-09-17 09:36 UTC** · [Update status](https://github.com/Bamb0oChen/Bamb0oChen/actions/workflows/update-stats.yml)
+Updated: **2026-09-17 09:38 UTC** · [Update status](https://github.com/Bamb0oChen/Bamb0oChen/actions/workflows/update-stats.yml)
 
 | Public original repositories | Stars received | Forks received |
 | ---: | ---: | ---: |
@@ -27,7 +27,7 @@ Public, owned, non-fork repositories only; archived repositories are included in
 
 **Primary languages** (repository count, not code volume or commit share)
 
-Python **4** · HTML **3** · JavaScript **3** · Jupyter Notebook **1** · Vue **1**
+Python **5** · HTML **3** · JavaScript **3** · Jupyter Notebook **1** · Vue **1**
 
 **Recently pushed projects**
 
