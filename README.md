@@ -16,13 +16,33 @@
 </div>
 
 ## 📊 Code Statistics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bamb0oChen&amp;theme=tokyo-night&amp;hide_border=true" alt="GitHub 活动图" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bamb0oChen&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bamb0oChen&theme=github_dark" width="48%" />
-</p>
+<!-- github-stats:start -->
+Updated: **2026-09-17 09:36 UTC** · [Update status](https://github.com/Bamb0oChen/Bamb0oChen/actions/workflows/update-stats.yml)
+
+| Public original repositories | Stars received | Forks received |
+| ---: | ---: | ---: |
+| 15 | 11 | 2 |
+
+Public, owned, non-fork repositories only; archived repositories are included in totals.
+
+**Primary languages** (repository count, not code volume or commit share)
+
+Python **4** · HTML **3** · JavaScript **3** · Jupyter Notebook **1** · Vue **1**
+
+**Recently pushed projects**
+
+| Repository | Primary language | Last push (UTC) |
+| --- | --- | --- |
+| [notes](https://github.com/Bamb0oChen/notes) | HTML | 2026-09-17 |
+| [Bamb0oChen.github.io](https://github.com/Bamb0oChen/Bamb0oChen.github.io) | JavaScript | 2026-09-12 |
+| [HZ98-MiniProgram](https://github.com/Bamb0oChen/HZ98-MiniProgram) | JavaScript | 2026-07-10 |
+| [ColorPal](https://github.com/Bamb0oChen/ColorPal) | Vue | 2026-05-24 |
+| [Agent4Study](https://github.com/Bamb0oChen/Agent4Study) | Python | 2026-05-10 |
+
+Last push is a repository timestamp, not a personal contribution count.
+
+[Contribution history](https://github.com/Bamb0oChen?tab=overview) · [All repositories](https://github.com/Bamb0oChen?tab=repositories)
+<!-- github-stats:end -->
 
 ## 📂 Selected Projects
 
