@@ -18,11 +18,11 @@
 ## 📊 Code Statistics
 <!-- github-stats:start -->
 <p align="center">
-  <a href="https://github.com/Bamb0oChen?tab=overview"><img src="./assets/stats/activity.svg?v=20260921223722" width="100%" alt="GitHub contributions over the last 31 days" /></a>
+  <a href="https://github.com/Bamb0oChen?tab=overview"><img src="./assets/stats/activity.svg?v=20260922062024" width="100%" alt="GitHub contributions over the last 31 days" /></a>
 </p>
 <p align="center">
-  <img src="./assets/stats/overview.svg?v=20260921223722" width="49%" alt="Public repository statistics and active days" />
-  <img src="./assets/stats/languages.svg?v=20260921223722" width="49%" alt="Primary languages by public non-fork repository count" />
+  <img src="./assets/stats/overview.svg?v=20260922062024" width="49%" alt="Public repository statistics and active days" />
+  <img src="./assets/stats/languages.svg?v=20260922062024" width="49%" alt="Primary languages by public non-fork repository count" />
 </p>
 <p align="center"><sub>Generated from GitHub every 6 hours. Timestamps are UTC; today's activity is partial. <a href="https://github.com/Bamb0oChen/Bamb0oChen/actions/workflows/update-stats.yml">Update status</a></sub></p>
 <!-- github-stats:end -->
