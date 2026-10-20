@@ -40,8 +40,7 @@
 
 ## 📫 Contact
 
-- Gmial: yanzhuchen192@gmail.com (mainly used)
-- - - -: bamb0oochen@gmail.com
+- Gmail: yanzhuchen192@gmail.com (mainly used) or bamb0oochen@gmail.com
 - QQmail: 3282928900@qq.com
 - Wechat: hidden in my home page
 
