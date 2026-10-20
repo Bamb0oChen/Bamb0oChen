@@ -40,9 +40,10 @@
 
 ## 📫 Contact
 
-- Gmial: yanzhuchen192@gmail.com
+- Gmial: yanzhuchen192@gmail.com (mainly used)
+-      : bamb0oochen@gmail.com
 - QQmail: 3282928900@qq.com
-- Wechat: Bamb0oChen 
+- Wechat: hidden in my home page
 
 ### ZJUer
 - 📕 I'm a student from [Zhejiang University](https://www.zju.edu.cn/), major in engineering, especially Unmanned Systems and Marine Equipment
